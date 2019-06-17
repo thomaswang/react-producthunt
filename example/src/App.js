@@ -1,13 +1,14 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
-import ExampleComponent from 'react-producthunt'
+import { ShipWidget, Badge } from "react-producthunt";
 
 export default class App extends Component {
-  render () {
+  render() {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <ShipWidget appId="17824" />
+        <Badge username="thomaswangio" />
       </div>
-    )
+    );
   }
 }
