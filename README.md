@@ -54,7 +54,7 @@ Props
 
 ### 2. Badge Component
 
-A badge component based off of LinkedIn's Badge's that you can put on your site to show off your Product Hunt profile.
+A badge component based off of LinkedIn's Badges that you can put on your site to show off your Product Hunt profile.
 
 #### Light Badge
 
@@ -86,6 +86,16 @@ Props
 - `darkMode`: `Boolean`
   - Default: `false`
   - Options: `true` or `false`
+
+## Future
+
+This package is open for PR's of any kind! There's room for many creative components using the Product Hunt API. See the [Product Hunt API GitHub Repo](https://github.com/producthunt/producthunt-api) for their starter kit and more references on what data you can pull.
+
+## Makers Festival
+
+This package was made for Product Hunt's Makers Festival 2019 - API Edition.
+
+Voting is open for project categories from June 17-23 here: https://www.producthunt.com/makers-festival/product-hunt-api-2-0/voting#everything-else. Give it a vote, if you want 😉
 
 ## License
 
