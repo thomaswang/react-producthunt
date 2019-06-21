@@ -7,6 +7,10 @@ class ShipWidget extends React.PureComponent {
     position: PropTypes.string
   }
 
+  componentWillUnmount() {
+    document.getElementById('ph-ship-widget').remove()
+  }
+
   scriptContents(appId, position) {
     window.productHuntUpcoming = {
       appId: appId,
@@ -28,7 +32,11 @@ class ShipWidget extends React.PureComponent {
   render() {
     const { appId, position } = this.props
 
-    return <script>{this.scriptContents(appId, position)}</script>
+    return (
+      <script id='ph-ship-widget'>
+        {this.scriptContents(appId, position)}
+      </script>
+    )
   }
 }
 

@@ -46,7 +46,7 @@ Props
 
   - Default: No default
   - Options: You can find your App ID in your Ship dashboard at a URL like this:
-    > https://www.producthunt.com/my/upcoming/`[your-upcoming-product]`/embed
+    > `https://www.producthunt.com/my/upcoming/[your-upcoming-product]/embed`
 
 - `position`: `String`
   - Default: `"bottomLeft"`
@@ -95,7 +95,7 @@ This package is open for PR's of any kind! There's room for many creative compon
 
 This package was made for Product Hunt's Makers Festival 2019 - API Edition.
 
-Voting is open for project categories from June 17-23 here: https://www.producthunt.com/makers-festival/product-hunt-api-2-0/voting#everything-else. Give it a vote, if you want 😉
+Voting is open for project categories from June 17-23 here: [Product Hunt Maker Fest Voting](https://www.producthunt.com/makers-festival/product-hunt-api-2-0/voting#everything-else) . Give it a vote, if you want 😉
 
 ## License
 

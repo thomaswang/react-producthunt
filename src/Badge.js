@@ -104,6 +104,7 @@ Badge.propTypes = {
 export default Badge
 
 const Wrapper = styled.a`
+  text-decoration: none !important;
   display: flex;
   flex-direction: column;
   box-shadow: ${props =>
@@ -142,7 +143,6 @@ const Wrapper = styled.a`
       ${props =>
     props.darkMode ? 'rgba(0, 0, 0, 0.5)' : 'rgba(198, 208, 235, 1)'};
     transform: translateY(-5px);
-    text-decoration: none;
   }
 `
 
@@ -187,7 +187,7 @@ const Text = styled.p`
 `
 
 const Logo = styled.img`
-  width: 60%;
+  width: 55%;
   margin: 0 auto;
   margin-top: 24px;
 `
