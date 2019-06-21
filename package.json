@@ -10,7 +10,7 @@
     "widget",
     "badge"
   ],
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "React Components for Product Hunt users",
   "author": "Thomas Wang <thomas@wang.sh>",
   "license": "MIT",
