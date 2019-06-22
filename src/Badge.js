@@ -175,9 +175,10 @@ const Username = styled.h4`
   font-size: 16px;
   font-weight: 500;
   color: #97a4b8;
-  margin-top: 4px;
+  margin-top: 6px;
   margin-bottom: 24px;
   text-align: center;
+  text-transform: none;
 `
 
 const Text = styled.p`
