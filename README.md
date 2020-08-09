@@ -94,7 +94,3 @@ This package is open for PR's of any kind! There's room for many creative compon
 ## Makers Festival
 
 This package was made for Product Hunt's [Makers Festival 2019 - API Edition](https://www.producthunt.com/makers-festival/product-hunt-api-2-0).
-
-## License
-
-MIT © [thomaswangio](https://github.com/thomaswangio)
