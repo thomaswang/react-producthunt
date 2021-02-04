@@ -10,14 +10,14 @@
     "widget",
     "badge"
   ],
-  "version": "0.2.6",
+  "version": "0.2.8",
   "description": "React Components for Product Hunt users",
   "author": "Thomas Wang <thomas@wang.sh>",
   "license": "MIT",
-  "homepage": "https://github.com/thomaswangio/react-producthunt",
-  "bugs": "https://github.com/thomaswangio/react-producthunt/issues",
+  "homepage": "https://github.com/thomaswang/react-producthunt",
+  "bugs": "https://github.com/thomaswang/react-producthunt/issues",
   "repository": {
-    "url": "https://github.com/thomaswangio/react-producthunt",
+    "url": "https://github.com/thomaswang/react-producthunt",
     "type": "git"
   },
   "typings": "src/index.d.ts",
