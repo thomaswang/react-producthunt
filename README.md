@@ -62,7 +62,7 @@ A badge component based off of LinkedIn's Badges that you can put on your site t
 
 #### Dark Badge
 
-  <img src="images/u1spt0xqgnjbvhi/dark-badge.png?raw=1" alt="React Product Hunt" width="400">
+  <img src="images/dark-badge.png?raw=1" alt="React Product Hunt" width="400">
 
 ES6 import
 
